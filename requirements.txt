@@ -7,4 +7,4 @@ seaborn==0.11.1
 datetime
 configparser
 numpy
-pip install pip-upgrader
+pip-upgrader
